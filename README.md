@@ -1,7 +1,7 @@
 EXHIBITION-MAKING-LIFE-MATTER
--------------
+-----------------------------
 
-You can see website here:  https://shamababul123.github.io/forecast-weather/
+You can see website here: https://shamababul123.github.io/exhibition-making-life-matter/
 
 ## WORKSHOP
 
